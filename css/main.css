@@ -3,7 +3,7 @@ body{
     background: #000;
 }
 
-.row-header{
+.section1, .row-header{
     padding-top: 70px;
 }
 
